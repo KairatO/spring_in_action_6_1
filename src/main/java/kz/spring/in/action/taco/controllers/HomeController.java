@@ -1,4 +1,4 @@
-package kz.spring.in.action.taco;
+package kz.spring.in.action.taco.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
